@@ -1,0 +1,8 @@
+Dotnet Commands
+
+- dotnet new list
+- dotnet new webapi -h
+- dotnet new sln
+- dotnet new webapi -controllers -n API
+- dotnet sln add API
+
