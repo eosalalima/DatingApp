@@ -5,4 +5,10 @@ Dotnet Commands
 - dotnet new sln
 - dotnet new webapi -controllers -n API
 - dotnet sln add API
+- dotnet restore
+- dotnet tool install -g dotnet-ef
+- dotnet ef migrations add InitialCreate -o Data/Migrations
+- dotnet ef database update
+
+
 
